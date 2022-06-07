@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/styluxlive.reactnative-l448wrm4-fork-l448zlvy",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve T5OTKpmkFbGiIvZ7KfXq --open"
+  }
+}
